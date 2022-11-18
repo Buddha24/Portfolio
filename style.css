@@ -1,3 +1,17 @@
+/**************
+
+COMMON
+**************/
 body{
-    background-color: aquamarine;
+
+font-family: "monospace", sans-serif;
+}
+
+.font-primary{
+    color :rgb(134, 134, 26)
+}
+
+.title.icon{
+    font-size: 25px;
+    font-weight: bold;
 }
