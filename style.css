@@ -48,12 +48,12 @@ ABOUT
 }
 
 #about .name  {
-    font-size: 19px;
+    font-size: 20px;
 }
 
 #about .vocation  {
     font-size: 17px;
-    color: #021061;
+    color: #666769;
     margin-bottom: 10px;
 }
 
